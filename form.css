@@ -1,0 +1,39 @@
+h1{
+    align-items: center;
+    width: max-content;
+    display: flex;
+    height: 60px;
+    background-color: rgb(149, 165, 189);
+    color: black;
+    border-radius: 15px;
+}
+
+form{
+    height: 100px;
+    width: max-content;
+    display: flex;
+    background-color: white;
+    color: black;
+    margin: 12px 0;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 34px;
+}
+
+.container{
+    min-height: 60vh;
+    background-color: rgb(135, 133, 137);
+    color: white;
+    font-family: font-family 'varela round', sans-serif;
+    display: flex;
+    margin: 20px auto;
+    width: 60%;
+    border-radius: 22px;
+    padding: 34px;
+}
+
+button{
+    height: 30px;
+    
+}
+
